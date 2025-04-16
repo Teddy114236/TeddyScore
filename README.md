@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img style="width:70px;height:70px;" src="https://github.com/user-attachments/assets/9d187e0a-0b50-4756-a3e7-3de6bd3ae7a1"> DoroScore
+# <img style="width:60px;height:60px;" src="https://github.com/user-attachments/assets/9d187e0a-0b50-4756-a3e7-3de6bd3ae7a1"> DoroScore
 #### **简体中文** | <a href="https://github.com/AHCorn/DoroScore/blob/main/README_EN.md"> English </a>
 
 与我的 Hbase 数据库作业通信的桥梁
